@@ -1,0 +1,10 @@
+@import './vars';
+
+.quote-root {
+    display: flex;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 2px 4px 9px $primary;
+    background-color: $secondary;
+    // background-image: $textured;
+}
